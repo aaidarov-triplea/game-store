@@ -1,0 +1,15 @@
+.App {
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: 0 40px;
+    color: #fff;
+}
+
+body {
+    background-color: rgb(25, 26, 28);
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
